@@ -1,0 +1,14 @@
+name = "portfolio"
+compatibility_date = "2025-11-01"
+
+[build]
+command = "npm run build"
+
+[[assets]]
+directory = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "portfolio-visitors"
+database_id = "8ce817a8-a533-42dd-9725-e6d1d9e1f7fe"
+
