@@ -1,4 +1,4 @@
-# Navadeep Naidu's Portfolio Website
+# Niharika Muduru's Portfolio Website
 
 A modern, highly interactive personal portfolio website built with Svelte and Vite. Hosted on Cloudflare Pages, it features smooth custom scroll animations, premium visual aesthetics, and a visitor guestbook ("The Wall") powered by Cloudflare D1 and GitHub OAuth.
 
