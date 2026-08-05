@@ -5,7 +5,7 @@
   const socialLinks = {
     email: "mailto:niharikamuduru@gmail.com",
     github: "https://github.com/niharikareddy018",
-    linkedin: "https://www.linkedin.com/in/niharika-muduru/",
+    linkedin: "https://www.linkedin.com/in/niharika-muduru-9a3543248",
   };
 
   const greetings = [
